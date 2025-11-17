@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 A results-driven Business Intelligence & Data Analyst with a proven track record of designing and delivering end-to-end BI solutions that drive strategic decision-making and measurable business outcomes. I specialize in transforming complex data into actionable insights using **Power BI, SQL, DAX, and Microsoft Fabric**.
 
@@ -23,7 +23,7 @@ As a founding member of the US team at **ZINAD IT**, I established the BI functi
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 Here's a selection of my work that demonstrates end-to-end analytical capabilities and business impact.
 
@@ -35,11 +35,11 @@ Here's a selection of my work that demonstrates end-to-end analytical capabiliti
 | **[HR Analytics Dashboard](link-to-repo)** | Workforce optimization and analytics initiative. | Power BI | Aimed for a 10% reduction in employee turnover through data-driven insights. |
 | **[WatchTower](link-to-repo)** (Graduation Project) | AI-Powered Linux Cybersecurity App (A+ Grade, Best Project Award). | Python, Dash, Suricata, LLMs | Led development of a real-time SOC platform with BI dashboards for security insights. |
 
-> *🔍 Explore more of my projects in the [**Repositories**](https://github.com/Khadiga-Hisham?tab=repositories) section below.*
+> *Explore more of my projects in the [**Repositories**](https://github.com/Khadiga-Hisham?tab=repositories) section below.*
 
 ---
 
-## 🏆 Certifications & Awards
+## Certifications & Awards
 
 | Certification | Issuer | Date |
 | :--- | :--- | :--- |
@@ -52,16 +52,8 @@ Here's a selection of my work that demonstrates end-to-end analytical capabiliti
 
 ---
 
-## 📈 GitHub Stats & Activity
 
-<!-- The contribution graph will auto-populate here. To make it more visible, try to be consistent with your commits. -->
-
-![Khadiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khadiga-Hisham&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadiga-Hisham&layout=compact)
-
----
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to discussing new opportunities, data challenges, or potential collaborations.
 
