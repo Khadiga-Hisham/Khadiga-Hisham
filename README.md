@@ -12,7 +12,7 @@
 
 ## About Me
 
-A results-driven Business Intelligence & Data Analyst and a Microsoft Certified Fabric Analytics Engineer and Power BI Data Analyst Associate with a proven track record of designing and delivering end-to-end BI solutions that drive strategic decision-making and measurable business outcomes. I specialize in transforming complex data into actionable insights using **Power BI, SQL, DAX, and Microsoft Fabric**.
+A results-driven Business Intelligence & Data Analyst and a **Microsoft Certified Fabric Analytics Engineer and Power BI Data Analyst Associate** with a proven track record of designing and **delivering end-to-end BI solutions** that drive strategic decision-making and measurable business outcomes. I specialize in transforming complex data into actionable insights using **Power BI, SQL, DAX, and Microsoft Fabric**.
 
 
 **My Core Expertise:**
