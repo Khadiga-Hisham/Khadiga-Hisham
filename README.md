@@ -13,7 +13,6 @@
 
 A results-driven Business Intelligence & Data Analyst with a proven track record of designing and delivering end-to-end BI solutions that drive strategic decision-making and measurable business outcomes. I specialize in transforming complex data into actionable insights using **Power BI, SQL, DAX, and Microsoft Fabric**.
 
-As a founding member of the US team at **ZINAD IT**, I established the BI function from the ground up, directly contributing to market entry success through predictive analytics, data governance, and strategic dashboard development.
 
 **My Core Expertise:**
 - **BI & Visualization:** Microsoft Power BI, Tableau, Excel, DAX, Power Query, SSIS, SSAS, SSRS.
