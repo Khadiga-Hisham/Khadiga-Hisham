@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-khadigahishammm@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khadigahishammm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khadiga_Hisham-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadiga-hisham/) 
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Coming_Soon-8A2BE2?style=flat)](#)
-*📍 El Sheikh Zayed, Al Jizah, Egypt | +20 127 477 7000*
+*📍Egypt | +20 127 477 7000*
 
 ---
 
