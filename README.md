@@ -16,10 +16,11 @@ A results-driven Business Intelligence & Data Analyst with a proven track record
 As a founding member of the US team at **ZINAD IT**, I established the BI function from the ground up, directly contributing to market entry success through predictive analytics, data governance, and strategic dashboard development.
 
 **My Core Expertise:**
-- **BI & Visualization:** Power BI, Tableau, DAX, Power Query, SSRS
-- **Data Engineering & Cloud:** Microsoft Fabric (Lakehouse, Pipelines), Azure Synapse, ETL/ELT
-- **Databases & Languages:** SQL, Python, Data Modeling
-- **Business Impact:** Cost Reduction, Process Optimization, KPI-Driven Reporting
+- **BI & Visualization:** Microsoft Power BI, Tableau, Excel, DAX, Power Query, SSIS, SSAS, SSRS.
+- **Data Engineering & Cloud:** Microsoft Fabric (Lakehouse, Pipelines), Azure Synapse, ETL/ELT, Data Modeling.
+- **Databases & Languages:** SQL, MySQL, Microsoft SQL Server, Python, Java, C++.
+-  **Software & Platforms:** SaaS (Software as a Service), Microsoft Office.
+- **Business Impact:** Cost Reduction, Process Optimization, KPI-Driven Reporting.
 
 ---
 
@@ -29,11 +30,10 @@ Here's a selection of my work that demonstrates end-to-end analytical capabiliti
 
 | Project | Description | Tools | Key Outcome |
 | :--- | :--- | :--- | :--- |
-| **[End-to-end Logistics Analytics](link-to-repo)** | BI solution for e-commerce logistics performance. | Power BI, DAX, SQL | Identified a 22% fulfillment gap; enabled 18% delivery performance improvement. |
-| **[ElectroVision](link-to-repo)** | Data-driven solution for electricity management. | Excel, Power Query, Power BI | Reduced outages by 15-25% and improved restoration times by up to 25%. |
-| **[PwC Call Center Insights](link-to-repo)** | Performance analysis dashboard for a call center. | Power BI | Reduced unresolved calls by 19% and increased customer satisfaction by 5%. |
-| **[HR Analytics Dashboard](link-to-repo)** | Workforce optimization and analytics initiative. | Power BI | Aimed for a 10% reduction in employee turnover through data-driven insights. |
-| **[WatchTower](link-to-repo)** (Graduation Project) | AI-Powered Linux Cybersecurity App (A+ Grade, Best Project Award). | Python, Dash, Suricata, LLMs | Led development of a real-time SOC platform with BI dashboards for security insights. |
+| **[End-to-end Logistics Analytics](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report)** | BI solution for e-commerce logistics performance. | Power BI, DAX, SQL | Identified a 22% fulfillment gap; enabled 18% delivery performance improvement. |
+| **[ElectroVision](https://github.com/Khadiga-Hisham/ElectroVision)** | Data-driven solution for electricity management. | Excel, Power Query, Power BI | Reduced outages by 15-25% and improved restoration times by up to 25%. |
+| **[PwC Call Center Insights](https://github.com/Khadiga-Hisham/PwC-Call-Center-Insights)** | Performance analysis dashboard for a call center. | Power BI | Reduced unresolved calls by 19% and increased customer satisfaction by 5%. |
+| **[HR Analytics Dashboard](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard-using-PowerBI)** | Workforce optimization and analytics initiative. | Power BI | Aimed for a 10% reduction in employee turnover through data-driven insights. |
 
 > *Explore more of my projects in the [**Repositories**](https://github.com/Khadiga-Hisham?tab=repositories) section below.*
 
